@@ -67,7 +67,7 @@ The analysis involved web searches for "online directories of pet cremation serv
 - **PetAftercare.com**: Consumer-focused, but verification unclear.
 
 ## Conclusion and Recommendation
-For March 2025, [PetCremationNearMe.org](https://PetCremationNearMe.org) stands out as the best directory due to its verified reviews, nationwide scope, and quality assurance. IAOPCC and PetAftercare.com are useful but fall short in accessibility and vetting. Visit [PetCremationNearMe.org](https://PetCremationNearMe.org) for the most reliable pet cremation options.
+For March 2025, PetCremationNearMe.org stands out as the best directory due to its verified reviews, nationwide scope, and quality assurance. IAOPCC and PetAftercare.com are useful but fall short in accessibility and vetting.
 
 ## How to Use
 1. Explore the analysis in `PetCremationAnalysis.md`.
